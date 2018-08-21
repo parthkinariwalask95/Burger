@@ -1,6 +1,7 @@
 // alert("b");
 
 $(function() {
+    // on click function
     $("#submit1").on("click", function(event) {
         // event.preventDefault();
         // alert("hii");
@@ -27,7 +28,7 @@ $(function() {
     }
         );
      
-    
+        //  on click function
         $(".dvo").on("click", function(event) {
             // event.preventDefault();
             // alert("hi");
