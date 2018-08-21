@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+.img{
+    margin-left: 350px;
+}
+.f1{
+    color:whitesmoke;
+}
+.b1{
+    background-color: orange;
+    color: white;
+    box-shadow: 1px 1px 7px 4px blueviolet;
+}
+#b2{
+    background-color: orange;
+    color: white;
+    box-shadow: 1px 1px 7px 4px blueviolet;
+}
